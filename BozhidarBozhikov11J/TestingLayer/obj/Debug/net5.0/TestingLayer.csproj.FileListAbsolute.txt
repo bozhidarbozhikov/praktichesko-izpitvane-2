@@ -1,0 +1,5 @@
+D:\Programming\izpiti\nunit test db\BozhidarBozhikov11J\TestingLayer\obj\Debug\net5.0\TestingLayer.csproj.AssemblyReference.cache
+D:\Programming\izpiti\nunit test db\BozhidarBozhikov11J\TestingLayer\obj\Debug\net5.0\TestingLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\izpiti\nunit test db\BozhidarBozhikov11J\TestingLayer\obj\Debug\net5.0\TestingLayer.AssemblyInfoInputs.cache
+D:\Programming\izpiti\nunit test db\BozhidarBozhikov11J\TestingLayer\obj\Debug\net5.0\TestingLayer.AssemblyInfo.cs
+D:\Programming\izpiti\nunit test db\BozhidarBozhikov11J\TestingLayer\obj\Debug\net5.0\TestingLayer.csproj.CoreCompileInputs.cache
